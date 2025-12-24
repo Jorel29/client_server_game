@@ -40,14 +40,6 @@ dependencies = [
 ]
 
 [[package]]
-name = "pisika"
-version = "0.1.0"
-dependencies = [
- "cell_ecs",
- "vector",
-]
-
-[[package]]
 name = "utils"
 version = "0.1.0"
 dependencies = [
